@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Zimmerman]]></title>
+        <description><![CDATA[Zimmerman]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 21 Apr 2016 14:26:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Steve Zimmerman</p>]]></description>
+            <link>undefinedsteve-zimmerman/index.html</link>
+            <guid isPermaLink="false">185e3180-702f-4e62-b091-e4f865194bcc</guid>
+            <pubDate>Thu, 21 Apr 2016 14:26:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
